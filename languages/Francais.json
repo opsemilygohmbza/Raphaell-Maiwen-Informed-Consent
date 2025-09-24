@@ -33,10 +33,10 @@
             "Optimize",
             "Clear",
             "Nouvelle partie",
-            "Continue",
+            "Continuer",
             null,
             "To Title",
-            "Cancel",
+            "Annuler",
             null,
             "Buy",
             "Sell"
@@ -599,7 +599,7 @@
                 "page": 0,
                 "index": 43,
                 "parameters": [
-                    "This is not an impulsive decision. I gave "
+                    "Ce n'est pas une décision impulsive. Je me "
                 ]
             },
             {
@@ -607,7 +607,7 @@
                 "page": 0,
                 "index": 44,
                 "parameters": [
-                    "myself until I was at least 25 to make up "
+                    "suis donné jusqu'à 25 ans pour"
                 ]
             },
             {
@@ -615,7 +615,7 @@
                 "page": 0,
                 "index": 45,
                 "parameters": [
-                    "my mind about it."
+                    "y récléchir. "
                 ]
             },
             {
@@ -623,7 +623,7 @@
                 "page": 0,
                 "index": 47,
                 "parameters": [
-                    "I know it might sound silly, but I picked "
+                    "Je suis que ça peut sonner ridicule, mais "
                 ]
             },
             {
@@ -631,7 +631,7 @@
                 "page": 0,
                 "index": 48,
                 "parameters": [
-                    "that age partly because that’s around when "
+                    "j'ai choisi cet âge car c'est environ là "
                 ]
             },
             {
@@ -639,7 +639,7 @@
                 "page": 0,
                 "index": 49,
                 "parameters": [
-                    "the brain stops developing."
+                    "que le cerveau cesse son développement."
                 ]
             },
             {
@@ -647,7 +647,7 @@
                 "page": 0,
                 "index": 51,
                 "parameters": [
-                    "Also, I figured no one would take me "
+                    "Aussi, je me suis dit que personne ne me "
                 ]
             },
             {
@@ -655,7 +655,7 @@
                 "page": 0,
                 "index": 52,
                 "parameters": [
-                    "seriously before that age."
+                    "prendrait au sérieux avant cet âge."
                 ]
             },
             {
@@ -663,7 +663,7 @@
                 "page": 0,
                 "index": 54,
                 "parameters": [
-                    "Although I have to say, I had little hope "
+                    "Mais bon, j'avais très peu espoir que  "
                 ]
             },
             {
@@ -671,7 +671,7 @@
                 "page": 0,
                 "index": 55,
                 "parameters": [
-                    "until recently that any health practitioner "
+                    "n'importe quel-le professionnel-le de "
                 ]
             },
             {
@@ -679,7 +679,7 @@
                 "page": 0,
                 "index": 56,
                 "parameters": [
-                    "would take me seriously before I was well "
+                    "la santé ne me prenne au sérieux avant que "
                 ]
             },
             {
@@ -687,7 +687,7 @@
                 "page": 0,
                 "index": 57,
                 "parameters": [
-                    "into my 40s."
+                    "je ne sois à la mi-quarantaine."
                 ]
             },
             {
@@ -695,7 +695,7 @@
                 "page": 0,
                 "index": 59,
                 "parameters": [
-                    "I hear you. Don’t worry, here, age is not "
+                    "Je comprends. Ne t'inquiète pas, ici, "
                 ]
             },
             {
@@ -703,7 +703,7 @@
                 "page": 0,
                 "index": 60,
                 "parameters": [
-                    "an issue."
+                    "l'âge n'est pas un enjeu."
                 ]
             },
             {
@@ -711,7 +711,7 @@
                 "page": 0,
                 "index": 62,
                 "parameters": [
-                    "(I know! That’s why I picked her. I found "
+                    "(Je sais! C'est pour ça que je l'ai choisie. "
                 ]
             },
             {
@@ -719,7 +719,7 @@
                 "page": 0,
                 "index": 63,
                 "parameters": [
-                    "her on a childfree-friendly doctors list "
+                    "Je l'ai trouvée dans une liste de médecins "
                 ]
             },
             {
@@ -727,7 +727,7 @@
                 "page": 0,
                 "index": 64,
                 "parameters": [
-                    "on reddit)"
+                    "childfree-friendly sur reddit.)"
                 ]
             },
             {
@@ -735,7 +735,7 @@
                 "page": 0,
                 "index": 66,
                 "parameters": [
-                    "There are a few things to consider before "
+                    "Il y a quelques choses à prendre en "
                 ]
             },
             {
@@ -743,7 +743,7 @@
                 "page": 0,
                 "index": 67,
                 "parameters": [
-                    "we move forward with that decision."
+                    "considération avant tout."
                 ]
             },
             {
@@ -751,7 +751,7 @@
                 "page": 0,
                 "index": 69,
                 "parameters": [
-                    "For instance, what if you end up with "
+                    "Par exemple, que ferais-tu si ton conjoint"
                 ]
             },
             {
@@ -759,7 +759,7 @@
                 "page": 0,
                 "index": 70,
                 "parameters": [
-                    "someone who wants children?"
+                    "voulait des enfants?"
                 ]
             },
             {
@@ -768,9 +768,9 @@
                 "index": 71,
                 "parameters": [
                     [
-                        "I'm not their incubator",
-                        "We would break up",
-                        "There are other ways"
+                        "Je ne suis pas son incubateur",
+                        "On ne serait plus ensemble",
+                        "Il y a d'autres façons"
                     ],
                     1,
                     0,
@@ -783,7 +783,7 @@
                 "page": 0,
                 "index": 74,
                 "parameters": [
-                    "Oh, hum, no, that's not what I was trying "
+                    "Oh, non, évidemment, ce n'est pas ce que "
                 ]
             },
             {
@@ -791,7 +791,7 @@
                 "page": 0,
                 "index": 75,
                 "parameters": [
-                    "to imply of course."
+                    "je voulais laisser entendre."
                 ]
             },
             {
@@ -799,7 +799,7 @@
                 "page": 0,
                 "index": 77,
                 "parameters": [
-                    "I understand why you would take offense in "
+                    "Je comprends pourquoi ma question pourrait "
                 ]
             },
             {
@@ -807,7 +807,7 @@
                 "page": 0,
                 "index": 78,
                 "parameters": [
-                    "that question. "
+                    "t'offenser. "
                 ]
             },
             {
@@ -815,7 +815,7 @@
                 "page": 0,
                 "index": 80,
                 "parameters": [
-                    "Just so you know, I'm asking precisely "
+                    "Je demande simplement parce que c'est une "
                 ]
             },
             {
@@ -823,7 +823,7 @@
                 "page": 0,
                 "index": 81,
                 "parameters": [
-                    "because it's a situation I've seen happen "
+                    "situation que j'ai vue arriver dans le  "
                 ]
             },
             {
@@ -831,7 +831,7 @@
                 "page": 0,
                 "index": 82,
                 "parameters": [
-                    "before. More than once."
+                    "passé. Plus d'une fois."
                 ]
             },
             {
@@ -839,7 +839,7 @@
                 "page": 0,
                 "index": 84,
                 "parameters": [
-                    "And then, it's an expensive and troublesome "
+                    "Et alors, c'est un processus coûteux et "
                 ]
             },
             {
@@ -847,7 +847,7 @@
                 "page": 0,
                 "index": 85,
                 "parameters": [
-                    "medical hassle, trying to get the person"
+                    "compliqué d'essayer de faire tomber enceinte"
                 ]
             },
             {
@@ -855,7 +855,7 @@
                 "page": 0,
                 "index": 86,
                 "parameters": [
-                    "pregnant through IVF or something of the "
+                    "la personne à travers la FIV ou d'autres "
                 ]
             },
             {
@@ -863,7 +863,7 @@
                 "page": 0,
                 "index": 87,
                 "parameters": [
-                    "likes. "
+                    "méthodes du genre. "
                 ]
             },
             {
@@ -871,7 +871,7 @@
                 "page": 0,
                 "index": 89,
                 "parameters": [
-                    "And it's heartbreaking when it doesn't work."
+                    "Et c'est déchirant quand ça ne marche pas."
                 ]
             },
             {
@@ -879,7 +879,7 @@
                 "page": 0,
                 "index": 93,
                 "parameters": [
-                    "It's a pretty big dealbreaker for me. I'm"
+                    "C'est un gros dealbreaker pour moi. Je ne"
                 ]
             },
             {
@@ -887,7 +887,7 @@
                 "page": 0,
                 "index": 94,
                 "parameters": [
-                    "childfree, regardless of what my partner "
+                    "veux pas d'enfant, peu importe ce que "
                 ]
             },
             {
@@ -895,7 +895,7 @@
                 "page": 0,
                 "index": 95,
                 "parameters": [
-                    "wants."
+                    "mon partenaire veut."
                 ]
             },
             {
@@ -903,7 +903,7 @@
                 "page": 0,
                 "index": 97,
                 "parameters": [
-                    "I actually just probably wouldn't get with"
+                    "Je n'aurais probablement pas commencé une"
                 ]
             },
             {
@@ -911,7 +911,7 @@
                 "page": 0,
                 "index": 98,
                 "parameters": [
-                    "them it the first place."
+                    "relation avec quelqu'un qui en veut. "
                 ]
             },
             {
@@ -919,7 +919,7 @@
                 "page": 0,
                 "index": 100,
                 "parameters": [
-                    "Yes of course."
+                    "Oui, ça a du sens."
                 ]
             },
             {
