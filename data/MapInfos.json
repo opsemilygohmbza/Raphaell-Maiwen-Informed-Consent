@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"RaphGyneco","order":1,"parentId":0,"scrollX":759.3333333333334,"scrollY":466.3333333333333},
-{"id":2,"expanded":false,"name":"ErwanUrolo","order":2,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"RaphGyneco","order":1,"parentId":0,"scrollX":759.3333333333334,"scrollY":466.3333333333333},
+{"id":2,"expanded":false,"name":"ErwanUrolo","order":2,"parentId":0,"scrollX":759.3333333333334,"scrollY":424.6666666666667}
 ]
